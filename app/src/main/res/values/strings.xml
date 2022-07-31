@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cat_phrase">What are you looking for?</string>
+    <string name="edit_search">Search...</string>
+    <string name="name_repo">PauloGoncalvesBH/treinamento-git</string>
+    <string name="description_repo">An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!</string>
+    <string name="updated">Updated</string>
+    <string name="text_update">6 days ago</string>
+    <string name="text_starred">15.7k</string>
+    <string name="clear_saved">clear saved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="d_readme">There are many great README templates available on GitHub; however, I didn\'t find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it\'ll be the last one you ever need -- I think this is it.</string>
+    <string name="readme">Readme</string>
+</resources>
